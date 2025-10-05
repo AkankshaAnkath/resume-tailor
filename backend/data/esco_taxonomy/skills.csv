@@ -1,0 +1,7 @@
+id,name,type,category
+S1.0.0,python programming,technical,programming
+S1.0.1,java programming,technical,programming
+S2.0.0,cloud computing,technical,infrastructure
+S2.0.1,aws,technical,infrastructure
+S3.0.0,leadership,soft,management
+S3.0.1,communication,soft,interpersonal

@@ -1,0 +1,4 @@
+venv
+backend/tests
+backend/.env
+backend/evaluation
