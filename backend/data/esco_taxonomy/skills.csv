@@ -1,7 +1,44 @@
 id,name,type,category
-S1.0.0,python programming,technical,programming
-S1.0.1,java programming,technical,programming
-S2.0.0,cloud computing,technical,infrastructure
-S2.0.1,aws,technical,infrastructure
-S3.0.0,leadership,soft,management
-S3.0.1,communication,soft,interpersonal
+S1.0.0,python,technical,programming
+S1.0.1,java,technical,programming
+S1.0.2,javascript,technical,programming
+S1.0.3,typescript,technical,programming
+S1.0.4,c++,technical,programming
+S1.0.5,go,technical,programming
+S2.0.0,react,technical,frontend
+S2.0.1,angular,technical,frontend
+S2.0.2,vue,technical,frontend
+S2.0.3,html,technical,frontend
+S2.0.4,css,technical,frontend
+S3.0.0,fastapi,technical,backend
+S3.0.1,django,technical,backend
+S3.0.2,flask,technical,backend
+S3.0.3,express,technical,backend
+S3.0.4,node.js,technical,backend
+S4.0.0,aws,technical,cloud
+S4.0.1,azure,technical,cloud
+S4.0.2,gcp,technical,cloud
+S5.0.0,docker,technical,devops
+S5.0.1,kubernetes,technical,devops
+S5.0.2,jenkins,technical,devops
+S5.0.3,gitlab,technical,devops
+S5.0.4,terraform,technical,devops
+S6.0.0,postgresql,technical,database
+S6.0.1,mysql,technical,database
+S6.0.2,mongodb,technical,database
+S6.0.3,redis,technical,database
+S6.0.4,sql,technical,database
+S7.0.0,tensorflow,technical,machine_learning
+S7.0.1,pytorch,technical,machine_learning
+S7.0.2,scikit-learn,technical,machine_learning
+S7.0.3,pandas,technical,machine_learning
+S7.0.4,machine learning,technical,machine_learning
+S8.0.0,git,technical,tools
+S8.0.1,linux,technical,tools
+S8.0.2,bash,technical,tools
+S9.0.0,leadership,soft,management
+S9.0.1,communication,soft,interpersonal
+S9.0.2,teamwork,soft,interpersonal
+S9.0.3,problem solving,soft,cognitive
+S9.0.4,agile,soft,methodology
+S9.0.5,scrum,soft,methodology

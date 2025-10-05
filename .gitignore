@@ -2,3 +2,4 @@ venv
 backend/tests
 backend/.env
 backend/evaluation
+backend/data/esco_taxonomy

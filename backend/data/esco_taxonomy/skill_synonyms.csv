@@ -1,5 +1,23 @@
 skill_id,synonym
-S1.0.0,python
+S1.0.0,python programming
 S1.0.0,python development
-S2.0.1,amazon web services
-S2.0.1,aws cloud
+S1.0.0,python developer
+S1.0.2,js
+S1.0.2,javascript programming
+S2.0.0,reactjs
+S2.0.0,react.js
+S3.0.0,fast api
+S3.0.1,django framework
+S4.0.0,amazon web services
+S4.0.0,aws cloud
+S5.0.0,docker containerization
+S5.0.0,docker containers
+S5.0.1,k8s
+S5.0.1,kubernetes orchestration
+S6.0.4,structured query language
+S7.0.0,tf
+S7.0.1,torch
+S7.0.4,ml
+S7.0.4,machine learning models
+S9.0.4,agile methodologies
+S9.0.4,agile development
